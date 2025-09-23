@@ -1,5 +1,5 @@
 ## Hi there 👋**
-안녕하세요
+공부중
 
 <img src="https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdna%2FcSny4z%2FbtqLscBsylh%2FAAAAAAAAAAAAAAAAAAAAAAMCYiyEpbej2th4Xdq-8uG1tBORfSYdT7rA8mmaiWkV%2Fimg.jpg%3Fcredential%3DyqXZFxpELC7KVnFOS48ylbz2pIh7yKj8%26expires%3D1759244399%26allow_ip%3D%26allow_referer%3D%26signature%3D51wXeZX5aeVL7FwkBDIGEo2B%252Bko%253D" alt="이미지 설명" width="300" />
 
