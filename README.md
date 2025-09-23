@@ -4,7 +4,8 @@
 <img src="https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdna%2FcSny4z%2FbtqLscBsylh%2FAAAAAAAAAAAAAAAAAAAAAAMCYiyEpbej2th4Xdq-8uG1tBORfSYdT7rA8mmaiWkV%2Fimg.jpg%3Fcredential%3DyqXZFxpELC7KVnFOS48ylbz2pIh7yKj8%26expires%3D1759244399%26allow_ip%3D%26allow_referer%3D%26signature%3D51wXeZX5aeVL7FwkBDIGEo2B%252Bko%253D" alt="이미지 설명" width="300" />
 
 <img src="https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdna%2FkxPp2%2FbtrYGu4m9IU%2FAAAAAAAAAAAAAAAAAAAAAOD4281wISVPOY2LuryfY96RTqJAPrDzq287KRVEsX5z%2Fimg.png%3Fcredential%3DyqXZFxpELC7KVnFOS48ylbz2pIh7yKj8%26expires%3D1759244399%26allow_ip%3D%26allow_referer%3D%26signature%3DRk%252B5XfZ9hizcsnCxvEbEgq%252BOCdQ%253D" alt="이미지 설명" width="300" />
-**cysnew7-arch/cysnew7-arch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/110px-Python-logo-notext.svg.png" alt="이미지 설명" width="300" />
 
 Here are some ideas to get you started:
 
