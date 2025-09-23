@@ -7,6 +7,7 @@
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/110px-Python-logo-notext.svg.png" alt="이미지 설명" width="300" />
 <img src="https://velog.velcdn.com/images/sungjin0757/post/e2b66d7f-1ff2-4106-b365-18aa5459711c/jpa.png" alt="이미지 설명" width="300" />
+<img src="https://wowtale.net/wp-content/uploads/2024/10/openAI-logo-800x555.jpeg" alt="이미지 설명" width="300" />
 </div>
 
 Here are some ideas to get you started:
