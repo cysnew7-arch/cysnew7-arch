@@ -11,7 +11,5 @@
 <img src="https://i.namu.wiki/i/ZLS1mIJ_bk5UDVFFEM8JejHrpsu2KCMIW_keQ4vKXYgYtUfIlxd2Z31VETd-WOEnstD1UlVMFPe6pcQrpjhMdh3xU7uammrnewVRI7GV5vyCPYOdb59D9_dXojayZyFqpnZDS0EDb96tUbgZQcJIdg.svg" alt="이미지 설명" width="300"/>
 <img src="https://velog.velcdn.com/images/kwon0koang/post/b4920057-5f92-4f69-8551-72e19033263a/image.png" alt="이미지 설명" width="300"/>
 
-
-
 </div>
 
